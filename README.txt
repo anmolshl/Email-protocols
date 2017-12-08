@@ -1,0 +1,1 @@
+Note: SMTP server requires CRLF line endings (i.e. netcat -C)
